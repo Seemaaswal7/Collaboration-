@@ -7,3 +7,5 @@
 	Main factors -Time/fees  and Decentralizing processing time
 	Blockchain/qr code payments/big data/biometric payment
 	Past – Cash present -sending money digitally future growth- Cryptocurrency 
+##
+# test
